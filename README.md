@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Craig.
-- 👀 I have a passion for creative engineering in all its forms.
+- 👀 I have a passion for creative engineering in all its forms (software, self improvement, etc).
 - 🌱 I’m currently learning how to develop on other open source projects.
 - 🌱 Enjoy the day!
 
