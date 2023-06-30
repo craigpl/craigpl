@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Craig.
+- 👋 Hi, my name is Craig. DE KC0DMF
 - 👀 I have a passion for creative engineering in all its forms (software, self improvement, etc).
 - 🌱 I’m currently learning how to develop on other open source projects.
 - 🌱 Enjoy the day!
